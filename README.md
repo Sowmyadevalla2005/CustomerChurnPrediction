@@ -6,10 +6,10 @@ This project builds an Artificial Neural Network (ANN) using TensorFlow 2.0 and 
 
 Customer churn refers to the phenomenon where customers stop doing business with a company. Accurately predicting churn helps businesses retain their customers and improve service. In this project:
 
-- We use the **Telco Customer Churn Dataset** from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
-- We preprocess the data (handle missing values, encode categorical variables, scale features).
-- We build and train an ANN for binary classification.
-- We evaluate the model using **confusion matrix**, **classification report**, **precision**, **recall**, **F1 score**, and **accuracy**.
+- I used the **Telco Customer Churn Dataset** from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
+- I performed data preprocessing: handled missing values, encoded categorical variables, and scaled features.
+- I built and trained a binary classification model using an ANN.
+- I evaluated the model using **confusion matrix**, **classification report**, **precision**, **recall**, **F1 score**, and **accuracy**.
 
 ## 🧠 Technologies Used
 
