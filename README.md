@@ -13,22 +13,23 @@ Customer churn refers to the phenomenon where customers stop doing business with
 
 ## 🧠 Technologies Used
 
-- Python 3.x
-- Pandas, NumPy
-- Scikit-learn
-- TensorFlow 2.0 / Keras
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- Python 3.x  
+- Pandas, NumPy  
+- Scikit-learn  
+- TensorFlow 2.0 / Keras  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
 
 ## 🧪 Dataset
 
 📥 Download the dataset from Kaggle:  
 **[Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)**
 
-After downloading, place `Telco-Customer-Churn.csv` inside the `dataset/` directory.
+After downloading, place the file `Telco-Customer-Churn.csv` inside the `dataset/` directory.
 
-## Start the notebook:
+## ▶️ Start the Notebook
+
+To run the project, open the notebook with:
+
+```bash
 jupyter notebook customer_churn_prediction.ipynb
-
-
-
